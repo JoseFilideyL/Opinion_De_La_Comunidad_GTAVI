@@ -1,7 +1,7 @@
 # GTA VI - Analisis de comentarios
 
 **Asignatura:** ADY1104 - Visualizacion de Datos  
-**Integrantes:** [Agregar nombres del grupo]  
+**Integrantes:** Gerald Santana - Matias Cornejo - Jose Filidey  
 **Herramientas:** Excel para revisar los datos y un dashboard interactivo en HTML.
 
 ## De que trata
